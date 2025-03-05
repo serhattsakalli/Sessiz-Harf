@@ -27,5 +27,4 @@ class Program
         string sessizHarfler = "bcçdfgğhjklmnprsştvyzBCÇDFGĞHJKLMNPRSŞTVYZ";
         return sessizHarfler.Contains(c);
     }
-
 }

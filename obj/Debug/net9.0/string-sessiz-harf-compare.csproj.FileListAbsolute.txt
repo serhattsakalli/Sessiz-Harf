@@ -1,0 +1,14 @@
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\bin\Debug\net9.0\string-sessiz-harf-compare.exe
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\bin\Debug\net9.0\string-sessiz-harf-compare.deps.json
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\bin\Debug\net9.0\string-sessiz-harf-compare.runtimeconfig.json
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\bin\Debug\net9.0\string-sessiz-harf-compare.dll
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\bin\Debug\net9.0\string-sessiz-harf-compare.pdb
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\obj\Debug\net9.0\string-sessiz-harf-compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\obj\Debug\net9.0\string-sessiz-harf-compare.AssemblyInfoInputs.cache
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\obj\Debug\net9.0\string-sessiz-harf-compare.AssemblyInfo.cs
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\obj\Debug\net9.0\string-sessiz-harf-compare.csproj.CoreCompileInputs.cache
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\obj\Debug\net9.0\string-sessiz-harf-compare.dll
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\obj\Debug\net9.0\refint\string-sessiz-harf-compare.dll
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\obj\Debug\net9.0\string-sessiz-harf-compare.pdb
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\obj\Debug\net9.0\string-sessiz-harf-compare.genruntimeconfig.cache
+C:\Users\ByOyu\OneDrive\Masaüstü\odevler\string-sessiz-harf-compare\obj\Debug\net9.0\ref\string-sessiz-harf-compare.dll
